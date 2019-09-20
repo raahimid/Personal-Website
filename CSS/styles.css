@@ -1,0 +1,94 @@
+/********Selector*********/
+
+h1{
+    font-family: 'Righteous', cursive;
+    font-size: 12rem;
+}
+
+.site-title{
+}
+.siteTitle{
+  padding-top: 2rem;
+  text-align:center;
+
+}
+
+.myDescription{
+  font-size: 2rem;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.contactButtons{
+  text-align: center;
+  width: 100%;
+}
+.btn:focus{
+  border: 0;
+}
+.btn{
+  background-color: inherit;
+  border: 0;
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+
+
+}
+
+.resume{
+  display: inline-block;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border: none;
+}
+
+.email{
+  display: inline-block;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border: none;
+}
+
+.projects{
+  display: inline-block;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border: none;
+}
+
+.redirectButtons{
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.linkedin{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  width:8%;
+}
+.github{
+  margin-left: 2.25rem;
+  width:12%;
+}
+.instagram{
+  margin-left: 3rem;
+  width:9.5%;
+}
+
+.about-section{
+  font-family: 'Righteous', cursive;
+  font-size: 4.5rem;
+  text-align:center;
+  padding-top: 2.5rem;
+}
+
+.about-text{
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  width: 50%;
+  margin: auto;
+  padding-top: 1rem;
+}
